@@ -1,5 +1,3 @@
-# ultrasonic-led-fader
-
 # Ultrasonic LED Fader with Filtering
 
 ## Overview
